@@ -1,4 +1,4 @@
-group,code,name,typical_wait_hours
+group,code,name,typical_treatment_time
 Disease,1,"Symptoms, signs, and abnormal clinical and laboratory findings",4.5
 Disease,2,Injury and poisoning,5.0
 Disease,3,Diseases of the respiratory system,8.0
