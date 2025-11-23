@@ -1,0 +1,21 @@
+group,code,name,typical_treatment_time
+Disease,1,"Symptoms, signs, and abnormal clinical and laboratory findings",4.5
+Disease,2,Injury and poisoning,5.0
+Disease,3,Diseases of the respiratory system,8.0
+Disease,4,Diseases of the musculoskeletal system and connective tissue,3.0
+Disease,5,Diseases of the digestive system,1.0
+Disease,6,Diseases of the genitourinary system,3.0
+Disease,7,"Mental, behavioral, and neurodevelopmental disorders",10.0
+Disease,8,Diseases of the circulatory system,6.0
+Disease,9,Certain infectious and parasitic diseases,4.0
+Disease,10,Diseases of the skin and subcutaneous tissue,3.0
+Symptom,3,Cough,2.0
+Symptom,1,"Stomach and abdominal pain, cramps and spasms",4.0
+Symptom,2,"Chest pain and related symptoms, non specific",1.0
+Symptom,4,Shortness of breath,6.0
+Symptom,5,Fever,4.0
+Symptom,6,"Headache, pain in head",3.0
+Symptom,7,"Pain, site not referable to a specific body system",3.0
+Symptom,8,"Back symptoms, lumbago, sciatica",3.0
+Symptom,9,"Vomiting, isolated or associated",4.0
+Symptom,10,Other symptoms or problems related to psychological and mental disorders,7.0

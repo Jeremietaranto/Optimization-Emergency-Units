@@ -1,0 +1,481 @@
+disease_index,disease_name,t,arrivals
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",1,12
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",2,12
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",3,18
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",4,6
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",5,6
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",6,12
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",7,18
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",8,30
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",9,30
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",10,42
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",11,30
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",12,30
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",13,48
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",14,36
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",15,42
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",16,36
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",17,36
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",18,30
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",19,24
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",20,24
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",21,24
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",22,18
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",23,18
+1,"Symptoms, signs, and abnormal clinical and laboratory findings",24,18
+2,Injury and poisoning,1,12
+2,Injury and poisoning,2,12
+2,Injury and poisoning,3,18
+2,Injury and poisoning,4,6
+2,Injury and poisoning,5,6
+2,Injury and poisoning,6,12
+2,Injury and poisoning,7,18
+2,Injury and poisoning,8,30
+2,Injury and poisoning,9,30
+2,Injury and poisoning,10,42
+2,Injury and poisoning,11,30
+2,Injury and poisoning,12,30
+2,Injury and poisoning,13,48
+2,Injury and poisoning,14,36
+2,Injury and poisoning,15,42
+2,Injury and poisoning,16,36
+2,Injury and poisoning,17,36
+2,Injury and poisoning,18,30
+2,Injury and poisoning,19,24
+2,Injury and poisoning,20,24
+2,Injury and poisoning,21,24
+2,Injury and poisoning,22,18
+2,Injury and poisoning,23,18
+2,Injury and poisoning,24,18
+3,Diseases of the respiratory system,1,12
+3,Diseases of the respiratory system,2,12
+3,Diseases of the respiratory system,3,18
+3,Diseases of the respiratory system,4,6
+3,Diseases of the respiratory system,5,6
+3,Diseases of the respiratory system,6,12
+3,Diseases of the respiratory system,7,18
+3,Diseases of the respiratory system,8,30
+3,Diseases of the respiratory system,9,30
+3,Diseases of the respiratory system,10,42
+3,Diseases of the respiratory system,11,30
+3,Diseases of the respiratory system,12,30
+3,Diseases of the respiratory system,13,48
+3,Diseases of the respiratory system,14,36
+3,Diseases of the respiratory system,15,42
+3,Diseases of the respiratory system,16,36
+3,Diseases of the respiratory system,17,36
+3,Diseases of the respiratory system,18,30
+3,Diseases of the respiratory system,19,24
+3,Diseases of the respiratory system,20,24
+3,Diseases of the respiratory system,21,24
+3,Diseases of the respiratory system,22,18
+3,Diseases of the respiratory system,23,18
+3,Diseases of the respiratory system,24,18
+4,Diseases of the musculoskeletal system and connective tissue,1,12
+4,Diseases of the musculoskeletal system and connective tissue,2,12
+4,Diseases of the musculoskeletal system and connective tissue,3,18
+4,Diseases of the musculoskeletal system and connective tissue,4,6
+4,Diseases of the musculoskeletal system and connective tissue,5,6
+4,Diseases of the musculoskeletal system and connective tissue,6,12
+4,Diseases of the musculoskeletal system and connective tissue,7,18
+4,Diseases of the musculoskeletal system and connective tissue,8,30
+4,Diseases of the musculoskeletal system and connective tissue,9,30
+4,Diseases of the musculoskeletal system and connective tissue,10,42
+4,Diseases of the musculoskeletal system and connective tissue,11,30
+4,Diseases of the musculoskeletal system and connective tissue,12,30
+4,Diseases of the musculoskeletal system and connective tissue,13,48
+4,Diseases of the musculoskeletal system and connective tissue,14,36
+4,Diseases of the musculoskeletal system and connective tissue,15,42
+4,Diseases of the musculoskeletal system and connective tissue,16,36
+4,Diseases of the musculoskeletal system and connective tissue,17,36
+4,Diseases of the musculoskeletal system and connective tissue,18,30
+4,Diseases of the musculoskeletal system and connective tissue,19,24
+4,Diseases of the musculoskeletal system and connective tissue,20,24
+4,Diseases of the musculoskeletal system and connective tissue,21,24
+4,Diseases of the musculoskeletal system and connective tissue,22,18
+4,Diseases of the musculoskeletal system and connective tissue,23,18
+4,Diseases of the musculoskeletal system and connective tissue,24,18
+5,Diseases of the digestive system,1,12
+5,Diseases of the digestive system,2,12
+5,Diseases of the digestive system,3,18
+5,Diseases of the digestive system,4,6
+5,Diseases of the digestive system,5,6
+5,Diseases of the digestive system,6,12
+5,Diseases of the digestive system,7,18
+5,Diseases of the digestive system,8,30
+5,Diseases of the digestive system,9,30
+5,Diseases of the digestive system,10,42
+5,Diseases of the digestive system,11,30
+5,Diseases of the digestive system,12,30
+5,Diseases of the digestive system,13,48
+5,Diseases of the digestive system,14,36
+5,Diseases of the digestive system,15,42
+5,Diseases of the digestive system,16,36
+5,Diseases of the digestive system,17,36
+5,Diseases of the digestive system,18,30
+5,Diseases of the digestive system,19,24
+5,Diseases of the digestive system,20,24
+5,Diseases of the digestive system,21,24
+5,Diseases of the digestive system,22,18
+5,Diseases of the digestive system,23,18
+5,Diseases of the digestive system,24,18
+6,Diseases of the genitourinary system,1,12
+6,Diseases of the genitourinary system,2,12
+6,Diseases of the genitourinary system,3,18
+6,Diseases of the genitourinary system,4,6
+6,Diseases of the genitourinary system,5,6
+6,Diseases of the genitourinary system,6,12
+6,Diseases of the genitourinary system,7,18
+6,Diseases of the genitourinary system,8,30
+6,Diseases of the genitourinary system,9,30
+6,Diseases of the genitourinary system,10,42
+6,Diseases of the genitourinary system,11,30
+6,Diseases of the genitourinary system,12,30
+6,Diseases of the genitourinary system,13,48
+6,Diseases of the genitourinary system,14,36
+6,Diseases of the genitourinary system,15,42
+6,Diseases of the genitourinary system,16,36
+6,Diseases of the genitourinary system,17,36
+6,Diseases of the genitourinary system,18,30
+6,Diseases of the genitourinary system,19,24
+6,Diseases of the genitourinary system,20,24
+6,Diseases of the genitourinary system,21,24
+6,Diseases of the genitourinary system,22,18
+6,Diseases of the genitourinary system,23,18
+6,Diseases of the genitourinary system,24,18
+7,"Mental, behavioral, and neurodevelopmental disorders",1,12
+7,"Mental, behavioral, and neurodevelopmental disorders",2,12
+7,"Mental, behavioral, and neurodevelopmental disorders",3,18
+7,"Mental, behavioral, and neurodevelopmental disorders",4,6
+7,"Mental, behavioral, and neurodevelopmental disorders",5,6
+7,"Mental, behavioral, and neurodevelopmental disorders",6,12
+7,"Mental, behavioral, and neurodevelopmental disorders",7,18
+7,"Mental, behavioral, and neurodevelopmental disorders",8,30
+7,"Mental, behavioral, and neurodevelopmental disorders",9,30
+7,"Mental, behavioral, and neurodevelopmental disorders",10,42
+7,"Mental, behavioral, and neurodevelopmental disorders",11,30
+7,"Mental, behavioral, and neurodevelopmental disorders",12,30
+7,"Mental, behavioral, and neurodevelopmental disorders",13,48
+7,"Mental, behavioral, and neurodevelopmental disorders",14,36
+7,"Mental, behavioral, and neurodevelopmental disorders",15,42
+7,"Mental, behavioral, and neurodevelopmental disorders",16,36
+7,"Mental, behavioral, and neurodevelopmental disorders",17,36
+7,"Mental, behavioral, and neurodevelopmental disorders",18,30
+7,"Mental, behavioral, and neurodevelopmental disorders",19,24
+7,"Mental, behavioral, and neurodevelopmental disorders",20,24
+7,"Mental, behavioral, and neurodevelopmental disorders",21,24
+7,"Mental, behavioral, and neurodevelopmental disorders",22,18
+7,"Mental, behavioral, and neurodevelopmental disorders",23,18
+7,"Mental, behavioral, and neurodevelopmental disorders",24,18
+8,Diseases of the circulatory system,1,12
+8,Diseases of the circulatory system,2,12
+8,Diseases of the circulatory system,3,18
+8,Diseases of the circulatory system,4,6
+8,Diseases of the circulatory system,5,6
+8,Diseases of the circulatory system,6,12
+8,Diseases of the circulatory system,7,18
+8,Diseases of the circulatory system,8,30
+8,Diseases of the circulatory system,9,30
+8,Diseases of the circulatory system,10,42
+8,Diseases of the circulatory system,11,30
+8,Diseases of the circulatory system,12,30
+8,Diseases of the circulatory system,13,48
+8,Diseases of the circulatory system,14,36
+8,Diseases of the circulatory system,15,42
+8,Diseases of the circulatory system,16,36
+8,Diseases of the circulatory system,17,36
+8,Diseases of the circulatory system,18,30
+8,Diseases of the circulatory system,19,24
+8,Diseases of the circulatory system,20,24
+8,Diseases of the circulatory system,21,24
+8,Diseases of the circulatory system,22,18
+8,Diseases of the circulatory system,23,18
+8,Diseases of the circulatory system,24,18
+9,Certain infectious and parasitic diseases,1,12
+9,Certain infectious and parasitic diseases,2,12
+9,Certain infectious and parasitic diseases,3,18
+9,Certain infectious and parasitic diseases,4,6
+9,Certain infectious and parasitic diseases,5,6
+9,Certain infectious and parasitic diseases,6,12
+9,Certain infectious and parasitic diseases,7,18
+9,Certain infectious and parasitic diseases,8,30
+9,Certain infectious and parasitic diseases,9,30
+9,Certain infectious and parasitic diseases,10,42
+9,Certain infectious and parasitic diseases,11,30
+9,Certain infectious and parasitic diseases,12,30
+9,Certain infectious and parasitic diseases,13,48
+9,Certain infectious and parasitic diseases,14,36
+9,Certain infectious and parasitic diseases,15,42
+9,Certain infectious and parasitic diseases,16,36
+9,Certain infectious and parasitic diseases,17,36
+9,Certain infectious and parasitic diseases,18,30
+9,Certain infectious and parasitic diseases,19,24
+9,Certain infectious and parasitic diseases,20,24
+9,Certain infectious and parasitic diseases,21,24
+9,Certain infectious and parasitic diseases,22,18
+9,Certain infectious and parasitic diseases,23,18
+9,Certain infectious and parasitic diseases,24,18
+10,Diseases of the skin and subcutaneous tissue,1,12
+10,Diseases of the skin and subcutaneous tissue,2,12
+10,Diseases of the skin and subcutaneous tissue,3,18
+10,Diseases of the skin and subcutaneous tissue,4,6
+10,Diseases of the skin and subcutaneous tissue,5,6
+10,Diseases of the skin and subcutaneous tissue,6,12
+10,Diseases of the skin and subcutaneous tissue,7,18
+10,Diseases of the skin and subcutaneous tissue,8,30
+10,Diseases of the skin and subcutaneous tissue,9,30
+10,Diseases of the skin and subcutaneous tissue,10,42
+10,Diseases of the skin and subcutaneous tissue,11,30
+10,Diseases of the skin and subcutaneous tissue,12,30
+10,Diseases of the skin and subcutaneous tissue,13,48
+10,Diseases of the skin and subcutaneous tissue,14,36
+10,Diseases of the skin and subcutaneous tissue,15,42
+10,Diseases of the skin and subcutaneous tissue,16,36
+10,Diseases of the skin and subcutaneous tissue,17,36
+10,Diseases of the skin and subcutaneous tissue,18,30
+10,Diseases of the skin and subcutaneous tissue,19,24
+10,Diseases of the skin and subcutaneous tissue,20,24
+10,Diseases of the skin and subcutaneous tissue,21,24
+10,Diseases of the skin and subcutaneous tissue,22,18
+10,Diseases of the skin and subcutaneous tissue,23,18
+10,Diseases of the skin and subcutaneous tissue,24,18
+11,Cough,1,24
+11,Cough,2,24
+11,Cough,3,36
+11,Cough,4,12
+11,Cough,5,12
+11,Cough,6,24
+11,Cough,7,36
+11,Cough,8,60
+11,Cough,9,60
+11,Cough,10,84
+11,Cough,11,60
+11,Cough,12,60
+11,Cough,13,96
+11,Cough,14,72
+11,Cough,15,84
+11,Cough,16,72
+11,Cough,17,72
+11,Cough,18,60
+11,Cough,19,48
+11,Cough,20,48
+11,Cough,21,48
+11,Cough,22,36
+11,Cough,23,36
+11,Cough,24,36
+12,"Stomach and abdominal pain, cramps and spasms",1,24
+12,"Stomach and abdominal pain, cramps and spasms",2,24
+12,"Stomach and abdominal pain, cramps and spasms",3,36
+12,"Stomach and abdominal pain, cramps and spasms",4,12
+12,"Stomach and abdominal pain, cramps and spasms",5,12
+12,"Stomach and abdominal pain, cramps and spasms",6,24
+12,"Stomach and abdominal pain, cramps and spasms",7,36
+12,"Stomach and abdominal pain, cramps and spasms",8,60
+12,"Stomach and abdominal pain, cramps and spasms",9,60
+12,"Stomach and abdominal pain, cramps and spasms",10,84
+12,"Stomach and abdominal pain, cramps and spasms",11,60
+12,"Stomach and abdominal pain, cramps and spasms",12,60
+12,"Stomach and abdominal pain, cramps and spasms",13,96
+12,"Stomach and abdominal pain, cramps and spasms",14,72
+12,"Stomach and abdominal pain, cramps and spasms",15,84
+12,"Stomach and abdominal pain, cramps and spasms",16,72
+12,"Stomach and abdominal pain, cramps and spasms",17,72
+12,"Stomach and abdominal pain, cramps and spasms",18,60
+12,"Stomach and abdominal pain, cramps and spasms",19,48
+12,"Stomach and abdominal pain, cramps and spasms",20,48
+12,"Stomach and abdominal pain, cramps and spasms",21,48
+12,"Stomach and abdominal pain, cramps and spasms",22,36
+12,"Stomach and abdominal pain, cramps and spasms",23,36
+12,"Stomach and abdominal pain, cramps and spasms",24,36
+13,"Chest pain and related symptoms, non specific",1,24
+13,"Chest pain and related symptoms, non specific",2,24
+13,"Chest pain and related symptoms, non specific",3,36
+13,"Chest pain and related symptoms, non specific",4,12
+13,"Chest pain and related symptoms, non specific",5,12
+13,"Chest pain and related symptoms, non specific",6,24
+13,"Chest pain and related symptoms, non specific",7,36
+13,"Chest pain and related symptoms, non specific",8,60
+13,"Chest pain and related symptoms, non specific",9,60
+13,"Chest pain and related symptoms, non specific",10,84
+13,"Chest pain and related symptoms, non specific",11,60
+13,"Chest pain and related symptoms, non specific",12,60
+13,"Chest pain and related symptoms, non specific",13,96
+13,"Chest pain and related symptoms, non specific",14,72
+13,"Chest pain and related symptoms, non specific",15,84
+13,"Chest pain and related symptoms, non specific",16,72
+13,"Chest pain and related symptoms, non specific",17,72
+13,"Chest pain and related symptoms, non specific",18,60
+13,"Chest pain and related symptoms, non specific",19,48
+13,"Chest pain and related symptoms, non specific",20,48
+13,"Chest pain and related symptoms, non specific",21,48
+13,"Chest pain and related symptoms, non specific",22,36
+13,"Chest pain and related symptoms, non specific",23,36
+13,"Chest pain and related symptoms, non specific",24,36
+14,Shortness of breath,1,24
+14,Shortness of breath,2,24
+14,Shortness of breath,3,36
+14,Shortness of breath,4,12
+14,Shortness of breath,5,12
+14,Shortness of breath,6,24
+14,Shortness of breath,7,36
+14,Shortness of breath,8,60
+14,Shortness of breath,9,60
+14,Shortness of breath,10,84
+14,Shortness of breath,11,60
+14,Shortness of breath,12,60
+14,Shortness of breath,13,96
+14,Shortness of breath,14,72
+14,Shortness of breath,15,84
+14,Shortness of breath,16,72
+14,Shortness of breath,17,72
+14,Shortness of breath,18,60
+14,Shortness of breath,19,48
+14,Shortness of breath,20,48
+14,Shortness of breath,21,48
+14,Shortness of breath,22,36
+14,Shortness of breath,23,36
+14,Shortness of breath,24,36
+15,Fever,1,24
+15,Fever,2,24
+15,Fever,3,36
+15,Fever,4,12
+15,Fever,5,12
+15,Fever,6,24
+15,Fever,7,36
+15,Fever,8,60
+15,Fever,9,60
+15,Fever,10,84
+15,Fever,11,60
+15,Fever,12,60
+15,Fever,13,96
+15,Fever,14,72
+15,Fever,15,84
+15,Fever,16,72
+15,Fever,17,72
+15,Fever,18,60
+15,Fever,19,48
+15,Fever,20,48
+15,Fever,21,48
+15,Fever,22,36
+15,Fever,23,36
+15,Fever,24,36
+16,"Headache, pain in head",1,24
+16,"Headache, pain in head",2,24
+16,"Headache, pain in head",3,36
+16,"Headache, pain in head",4,12
+16,"Headache, pain in head",5,12
+16,"Headache, pain in head",6,24
+16,"Headache, pain in head",7,36
+16,"Headache, pain in head",8,60
+16,"Headache, pain in head",9,60
+16,"Headache, pain in head",10,84
+16,"Headache, pain in head",11,60
+16,"Headache, pain in head",12,60
+16,"Headache, pain in head",13,96
+16,"Headache, pain in head",14,72
+16,"Headache, pain in head",15,84
+16,"Headache, pain in head",16,72
+16,"Headache, pain in head",17,72
+16,"Headache, pain in head",18,60
+16,"Headache, pain in head",19,48
+16,"Headache, pain in head",20,48
+16,"Headache, pain in head",21,48
+16,"Headache, pain in head",22,36
+16,"Headache, pain in head",23,36
+16,"Headache, pain in head",24,36
+17,"Pain, site not referable to a specific body system",1,24
+17,"Pain, site not referable to a specific body system",2,24
+17,"Pain, site not referable to a specific body system",3,36
+17,"Pain, site not referable to a specific body system",4,12
+17,"Pain, site not referable to a specific body system",5,12
+17,"Pain, site not referable to a specific body system",6,24
+17,"Pain, site not referable to a specific body system",7,36
+17,"Pain, site not referable to a specific body system",8,60
+17,"Pain, site not referable to a specific body system",9,60
+17,"Pain, site not referable to a specific body system",10,84
+17,"Pain, site not referable to a specific body system",11,60
+17,"Pain, site not referable to a specific body system",12,60
+17,"Pain, site not referable to a specific body system",13,96
+17,"Pain, site not referable to a specific body system",14,72
+17,"Pain, site not referable to a specific body system",15,84
+17,"Pain, site not referable to a specific body system",16,72
+17,"Pain, site not referable to a specific body system",17,72
+17,"Pain, site not referable to a specific body system",18,60
+17,"Pain, site not referable to a specific body system",19,48
+17,"Pain, site not referable to a specific body system",20,48
+17,"Pain, site not referable to a specific body system",21,48
+17,"Pain, site not referable to a specific body system",22,36
+17,"Pain, site not referable to a specific body system",23,36
+17,"Pain, site not referable to a specific body system",24,36
+18,"Back symptoms, lumbago, sciatica",1,24
+18,"Back symptoms, lumbago, sciatica",2,24
+18,"Back symptoms, lumbago, sciatica",3,36
+18,"Back symptoms, lumbago, sciatica",4,12
+18,"Back symptoms, lumbago, sciatica",5,12
+18,"Back symptoms, lumbago, sciatica",6,24
+18,"Back symptoms, lumbago, sciatica",7,36
+18,"Back symptoms, lumbago, sciatica",8,60
+18,"Back symptoms, lumbago, sciatica",9,60
+18,"Back symptoms, lumbago, sciatica",10,84
+18,"Back symptoms, lumbago, sciatica",11,60
+18,"Back symptoms, lumbago, sciatica",12,60
+18,"Back symptoms, lumbago, sciatica",13,96
+18,"Back symptoms, lumbago, sciatica",14,72
+18,"Back symptoms, lumbago, sciatica",15,84
+18,"Back symptoms, lumbago, sciatica",16,72
+18,"Back symptoms, lumbago, sciatica",17,72
+18,"Back symptoms, lumbago, sciatica",18,60
+18,"Back symptoms, lumbago, sciatica",19,48
+18,"Back symptoms, lumbago, sciatica",20,48
+18,"Back symptoms, lumbago, sciatica",21,48
+18,"Back symptoms, lumbago, sciatica",22,36
+18,"Back symptoms, lumbago, sciatica",23,36
+18,"Back symptoms, lumbago, sciatica",24,36
+19,"Vomiting, isolated or associated",1,24
+19,"Vomiting, isolated or associated",2,24
+19,"Vomiting, isolated or associated",3,36
+19,"Vomiting, isolated or associated",4,12
+19,"Vomiting, isolated or associated",5,12
+19,"Vomiting, isolated or associated",6,24
+19,"Vomiting, isolated or associated",7,36
+19,"Vomiting, isolated or associated",8,60
+19,"Vomiting, isolated or associated",9,60
+19,"Vomiting, isolated or associated",10,84
+19,"Vomiting, isolated or associated",11,60
+19,"Vomiting, isolated or associated",12,60
+19,"Vomiting, isolated or associated",13,96
+19,"Vomiting, isolated or associated",14,72
+19,"Vomiting, isolated or associated",15,84
+19,"Vomiting, isolated or associated",16,72
+19,"Vomiting, isolated or associated",17,72
+19,"Vomiting, isolated or associated",18,60
+19,"Vomiting, isolated or associated",19,48
+19,"Vomiting, isolated or associated",20,48
+19,"Vomiting, isolated or associated",21,48
+19,"Vomiting, isolated or associated",22,36
+19,"Vomiting, isolated or associated",23,36
+19,"Vomiting, isolated or associated",24,36
+20,Other symptoms or problems related to psychological and mental disorders,1,24
+20,Other symptoms or problems related to psychological and mental disorders,2,24
+20,Other symptoms or problems related to psychological and mental disorders,3,36
+20,Other symptoms or problems related to psychological and mental disorders,4,12
+20,Other symptoms or problems related to psychological and mental disorders,5,12
+20,Other symptoms or problems related to psychological and mental disorders,6,24
+20,Other symptoms or problems related to psychological and mental disorders,7,36
+20,Other symptoms or problems related to psychological and mental disorders,8,60
+20,Other symptoms or problems related to psychological and mental disorders,9,60
+20,Other symptoms or problems related to psychological and mental disorders,10,84
+20,Other symptoms or problems related to psychological and mental disorders,11,60
+20,Other symptoms or problems related to psychological and mental disorders,12,60
+20,Other symptoms or problems related to psychological and mental disorders,13,96
+20,Other symptoms or problems related to psychological and mental disorders,14,72
+20,Other symptoms or problems related to psychological and mental disorders,15,84
+20,Other symptoms or problems related to psychological and mental disorders,16,72
+20,Other symptoms or problems related to psychological and mental disorders,17,72
+20,Other symptoms or problems related to psychological and mental disorders,18,60
+20,Other symptoms or problems related to psychological and mental disorders,19,48
+20,Other symptoms or problems related to psychological and mental disorders,20,48
+20,Other symptoms or problems related to psychological and mental disorders,21,48
+20,Other symptoms or problems related to psychological and mental disorders,22,36
+20,Other symptoms or problems related to psychological and mental disorders,23,36
+20,Other symptoms or problems related to psychological and mental disorders,24,36
