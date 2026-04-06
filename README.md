@@ -67,6 +67,11 @@ The project uses multiple datasets to simulate emergency department activity:
 
 ## Implementation
 
+Technologies used:
+
+* Python (NumPy, Pandas)
+* Jupyter Notebook
+* Optimization modeling techniques
 Main components:
 
 * `ER_model_1.ipynb`: Core optimization model
@@ -74,11 +79,6 @@ Main components:
 * `creation_ED_arrivals_2.ipynb`: Synthetic arrival generation
 * CSV datasets for simulation inputs
 
-Technologies used:
-
-* Python (NumPy, Pandas)
-* Jupyter Notebook
-* Optimization modeling techniques
 
 ---
 
@@ -90,21 +90,11 @@ Technologies used:
 
 ---
 
-## Why This Project Matters
-
-This project reflects real-world operational challenges in healthcare systems and shows the ability to:
-
-* Translate complex systems into mathematical models
-* Work with imperfect, real-world data
-* Build decision-support tools with tangible impact
-
----
-
 ## Authors
 
 **Jérémie Taranto**
 Originally developed under another student account; this repository consolidates and continues the work.
 
-****Elie Juvenspan**
+**Elie Juvenspan**
 
 
